@@ -15,6 +15,3 @@ This project is designed for educational purposes and to help beginners understa
 - Logs activity to both the console and a `bot.log` file.
 - Uses environment variables for **API Key** and **Secret** for security.
 
----
-
-## 📂 Project Structure
